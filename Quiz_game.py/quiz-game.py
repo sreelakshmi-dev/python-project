@@ -1,5 +1,5 @@
 
-score
+score=0
 print("welcome to quiz game!😊")
 playing=input("do you want to play the game? ")
 if playing.lower()!="yes":
